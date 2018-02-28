@@ -34,7 +34,7 @@ namespace NewHealthgrades.Oas.Webapi.Oas.Controllers
         }
 
         [HttpPost]
-     
+     //inserting New appointment -Pavi
         public string InsertAppointment(AppointmentTBL app )
         {
             var response = _oasService.InsertNewAppointment(app);
@@ -48,7 +48,8 @@ namespace NewHealthgrades.Oas.Webapi.Oas.Controllers
             return response;
         }
         [HttpDelete]
-        
+        //Delete an appointment from the database by giving the appointmentid
+
         public string DeleteAppointment(int id)
         {
             var response2 = _oasService.DeleteAppointmentById(id);
