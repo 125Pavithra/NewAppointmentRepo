@@ -26,7 +26,7 @@ namespace NewHealthgrades.Oas.Webapi.Oas.Controllers
         }
     
         [HttpGet]
-      //Getting the appointment by giving the AppointmentId
+      //Getting the appointment by giving the AppointmentId - Pavi
         public AppointmentTBL GetAppointment(int id)
         {
             var response1 =  _oasService.GetAppointmentById(id);
