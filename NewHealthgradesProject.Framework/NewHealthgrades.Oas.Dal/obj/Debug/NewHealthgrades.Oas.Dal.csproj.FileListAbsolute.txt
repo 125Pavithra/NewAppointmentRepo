@@ -1,0 +1,14 @@
+c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\NewHealthgrades.Oas.Dal.dll
+c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\NewHealthgrades.Oas.Dal.pdb
+c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\EntityFramework.dll
+c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\NewHealthgrades.Oas.Dal.Sql.dll
+c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\NewHealthgrades.Oas.Dal.Sql.pdb
+c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\NewHealthgrades.Oas.Dal.Sql.dll.config
+c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\EntityFramework.xml
+c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\obj\Debug\NewHealthgrades.Oas.Dal.csprojResolveAssemblyReference.cache
+c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\obj\Debug\NewHealthgrades.Oas.Dal.dll
+c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\obj\Debug\NewHealthgrades.Oas.Dal.pdb
+c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\NewHealthgrades.Oas.Dal.Interface.dll
+c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\NewHealthgrades.Oas.Dal.Interface.pdb
