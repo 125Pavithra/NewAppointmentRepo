@@ -26,7 +26,7 @@ namespace NewHealthgrades.Oas.Webapi.Oas.Controllers
         }
     
         [HttpGet]
-      
+      //Getting the appointment by giving the AppointmentId
         public AppointmentTBL GetAppointment(int id)
         {
             var response1 =  _oasService.GetAppointmentById(id);
@@ -41,7 +41,7 @@ namespace NewHealthgrades.Oas.Webapi.Oas.Controllers
             return response;
         }
         [HttpPut]
-      
+      //Updating the AppointmentId
         public string UpdateAppointment(AppointmentTBL app)
         {
             var response =  _oasService.UpdateOldAppointment(app);
