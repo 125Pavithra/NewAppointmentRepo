@@ -3,3 +3,8 @@ c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject
 c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Common\obj\Debug\NewHealthgrades.Oas.Common.dll
 c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Common\obj\Debug\NewHealthgrades.Oas.Common.pdb
 c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Common\obj\Debug\NewHealthgrades.Oas.Common.csprojResolveAssemblyReference.cache
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Common\bin\Debug\NewHealthgrades.Oas.Common.dll
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Common\bin\Debug\NewHealthgrades.Oas.Common.pdb
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Common\obj\Debug\NewHealthgrades.Oas.Common.csprojResolveAssemblyReference.cache
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Common\obj\Debug\NewHealthgrades.Oas.Common.dll
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Common\obj\Debug\NewHealthgrades.Oas.Common.pdb

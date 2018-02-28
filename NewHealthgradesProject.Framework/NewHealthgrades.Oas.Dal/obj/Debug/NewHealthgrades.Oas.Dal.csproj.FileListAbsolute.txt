@@ -12,3 +12,17 @@ c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject
 c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\obj\Debug\NewHealthgrades.Oas.Dal.pdb
 c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\NewHealthgrades.Oas.Dal.Interface.dll
 c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\NewHealthgrades.Oas.Dal.Interface.pdb
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\NewHealthgrades.Oas.Dal.dll
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\NewHealthgrades.Oas.Dal.pdb
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\EntityFramework.dll
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\EntityFramework.SqlServer.dll
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\NewHealthgrades.Oas.Dal.Interface.dll
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\NewHealthgrades.Oas.Dal.Sql.dll
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\NewHealthgrades.Oas.Dal.Interface.pdb
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\NewHealthgrades.Oas.Dal.Sql.pdb
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\NewHealthgrades.Oas.Dal.Sql.dll.config
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\EntityFramework.xml
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\bin\Debug\EntityFramework.SqlServer.xml
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\obj\Debug\NewHealthgrades.Oas.Dal.csprojResolveAssemblyReference.cache
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\obj\Debug\NewHealthgrades.Oas.Dal.dll
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal\obj\Debug\NewHealthgrades.Oas.Dal.pdb

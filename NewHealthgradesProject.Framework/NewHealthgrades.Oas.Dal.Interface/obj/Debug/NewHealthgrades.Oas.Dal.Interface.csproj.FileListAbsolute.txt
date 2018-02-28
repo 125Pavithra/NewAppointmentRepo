@@ -8,3 +8,13 @@ c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject
 c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal.Interface\obj\Debug\NewHealthgrades.Oas.Dal.Interface.csprojResolveAssemblyReference.cache
 c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal.Interface\obj\Debug\NewHealthgrades.Oas.Dal.Interface.dll
 c:\users\pavithra.s\documents\visual studio 2017\Projects\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal.Interface\obj\Debug\NewHealthgrades.Oas.Dal.Interface.pdb
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal.Interface\bin\Debug\NewHealthgrades.Oas.Dal.Interface.dll
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal.Interface\bin\Debug\NewHealthgrades.Oas.Dal.Interface.pdb
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal.Interface\bin\Debug\NewHealthgrades.Oas.Dal.Sql.dll
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal.Interface\bin\Debug\EntityFramework.dll
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal.Interface\bin\Debug\NewHealthgrades.Oas.Dal.Sql.pdb
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal.Interface\bin\Debug\NewHealthgrades.Oas.Dal.Sql.dll.config
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal.Interface\bin\Debug\EntityFramework.xml
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal.Interface\obj\Debug\NewHealthgrades.Oas.Dal.Interface.csprojResolveAssemblyReference.cache
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal.Interface\obj\Debug\NewHealthgrades.Oas.Dal.Interface.dll
+E:\NewAppointmentRepo\NewHealthgradesProject.Framework\NewHealthgrades.Oas.Dal.Interface\obj\Debug\NewHealthgrades.Oas.Dal.Interface.pdb
